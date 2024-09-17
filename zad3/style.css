@@ -1,0 +1,25 @@
+.student-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f2f2f2;
+}
+
+.student-card h2 {
+    margin-top: 0;
+}
+
+.student-card p {
+    margin-bottom: 10px;
+}
+
+.student-card ul {
+    margin-bottom: 10px;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.student-card li {
+    margin-right: 10px;
+    display: inline-block;
+}
